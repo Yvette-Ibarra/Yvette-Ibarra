@@ -1,4 +1,10 @@
 ### Hi there 👋
+I’m currently working on learning how to use git-hub and git.
+I’m currently learning command line.
+😄 Pronouns: She, Her
+
+
+Data Science
 
 <!--
 **Yvette-Ibarra/Yvette-Ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

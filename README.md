@@ -1,4 +1,4 @@
-<span style="color:orange;">Word up </span>
+
 ### Hi there 👋
 I’m currently working on learning how to use git-hub and git.
 I’m currently learning command line.

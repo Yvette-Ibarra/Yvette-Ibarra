@@ -6,6 +6,8 @@ I’m currently learning command line.
 
 Data Science
 
+Everytime I look for an ideal job for me in the workforce I end up in the field of DataScience. I want to use mathematics to analyze informations along with software and languages to organize and present data. Making decision when the data is talking is the best way to move foward into the future.
+
 <!--
 **Yvette-Ibarra/Yvette-Ibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

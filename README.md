@@ -4,6 +4,7 @@ I’m currently working on learning about Anomaly Detection.
 
 
 💬 Ask me about Early Childhood Development, Mathematics Education, Nintenedo Video Games
+
 😄 Pronouns: She, Her
 
 **Data Science**

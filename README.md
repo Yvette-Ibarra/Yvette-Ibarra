@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I’m currently working on learning about Anomaly Detection.
+I’m currently working on learning about what makes a song popular.
 
 
 💬 Ask me about Early Childhood Development, Mathematics Education, Nintenedo Video Games
